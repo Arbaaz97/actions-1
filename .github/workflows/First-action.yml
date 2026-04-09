@@ -7,7 +7,7 @@ jobs:
         runs-on: ubuntu-latest
         steps: 
             - name: Welcome Message
-              run: "My First Github Message"
+              run: echo "My First Github Message"
 
         
             - name: list files
